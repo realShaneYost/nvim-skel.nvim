@@ -1,0 +1,5 @@
+describe("placeholder", function()
+    it("should require plugin", function()
+        require("nvim-skel")
+    end)
+end)
